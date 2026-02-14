@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "止まり木の歌",
+  "base_artist": "未来古代楽団",
+  "createdAt": "2026-02-14T08:13:43.221312Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "止まり木の歌 - feat. 安次嶺希和子",
+      "artist": "未来古代楽団",
+      "has_synced": true,
+      "path": "select/01_止まり木の歌_-_feat._安次嶺希和子_未来古代楽団.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "止まり木の歌 (feat. 安次嶺希和子)",
+      "artist": "未来古代楽団",
+      "has_synced": false,
+      "path": "select/pl_01_止まり木の歌_(feat._安次嶺希和子)_未来古代楽団.txt"
+    }
+  ]
+}
